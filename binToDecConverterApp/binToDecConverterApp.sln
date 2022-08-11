@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "binToDecConverterApp", "binToDecConverterApp.csproj", "{ECF9965C-BDED-4864-8B35-AE3F13C1AA8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF9965C-BDED-4864-8B35-AE3F13C1AA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF9965C-BDED-4864-8B35-AE3F13C1AA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF9965C-BDED-4864-8B35-AE3F13C1AA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF9965C-BDED-4864-8B35-AE3F13C1AA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1138AF22-0677-4880-B55D-60B688D1BC46}
+	EndGlobalSection
+EndGlobal
