@@ -10,7 +10,7 @@ namespace Bin2DecConvertor
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("|||This is a simple binary to decimal converter.||| \n\nPlease enter binary number to continue...\n");
+            Console.WriteLine("||||This is a simple binary to decimal converter.|||| \n\nPlease enter binary number to continue...\n");
 
             string input = Console.ReadLine();
 
